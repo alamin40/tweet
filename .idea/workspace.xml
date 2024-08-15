@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bf65a64-925d-4b21-aee8-d0be22fa940f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Story/tweet/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Story/Story/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Story/Story/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Story/Story/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Story/Story/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Story/tweet/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Story/tweet/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +32,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\ChaiAurCodePY\Tweet\Story\tweet" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Tweet" />
