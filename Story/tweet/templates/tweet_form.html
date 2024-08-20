@@ -17,6 +17,7 @@ Tweet
   <form method="post" enctype="multipart/form-data" class="form">{{ form.as_p }}
   </form>
   <button class="btn btn-warning" type="submit">Submit</button>
+  <a href="{% url 'tweet_list' %}">Back to tweet list</a>
 </h2>
 
 {% endblock %}
