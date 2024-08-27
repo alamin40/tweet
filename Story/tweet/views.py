@@ -51,4 +51,7 @@ def tweet_delete(request, tweet_id):
         tweet.delete()
         return redirect('tweet_list')
     return render(request, 'tweet_confirm_delete.html', {'tweet': tweet})
+
+def register(request):
+    
     
