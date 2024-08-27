@@ -2,6 +2,7 @@ from django.shortcuts import render
 from .models import Tweet
 from .forms import TweetForm
 from django.shortcuts import get_object_or_404, redirect
+from django.contrib.auth.decorators import login_required
 
 # Create your views here.
 
